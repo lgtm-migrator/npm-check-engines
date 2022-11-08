@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.4](https://github.com/smarlhens/npm-check-engines/compare/v0.7.3...v0.7.4) (2022-11-08)
+
+
+### Chores
+
+* **deps:** update vitest monorepo to v0.25.0 ([3e2e69a](https://github.com/smarlhens/npm-check-engines/commit/3e2e69a063413c449518c721d38c2df503870632))
+
 ## [0.7.3](https://github.com/smarlhens/npm-check-engines/compare/v0.7.2...v0.7.3) (2022-11-06)
 
 
